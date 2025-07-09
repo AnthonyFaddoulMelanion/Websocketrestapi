@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\antho\\source\\repos\\WebSocketRESTAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9D708AA-BB19-DEB3-47B4-00E6AAFBDD8C}|WebSocketRESTAPI\\WebSocketRESTAPI.csproj|c:\\users\\antho\\source\\repos\\websocketrestapi\\websocketrestapi\\websocketrestapi.xlsx||{B04EAF7D-7811-4A65-A4C0-1C9D2354E965}",
-      "RelativeMoniker": "D:0:0:{F9D708AA-BB19-DEB3-47B4-00E6AAFBDD8C}|WebSocketRESTAPI\\WebSocketRESTAPI.csproj|solutionrelative:websocketrestapi\\websocketrestapi.xlsx||{B04EAF7D-7811-4A65-A4C0-1C9D2354E965}"
+      "AbsoluteMoniker": "D:0:0:{F9D708AA-BB19-DEB3-47B4-00E6AAFBDD8C}|WebSocketRESTAPI\\WebSocketRESTAPI.csproj|c:\\users\\antho\\source\\repos\\websocketrestapi\\websocketrestapi\\sheet1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D708AA-BB19-DEB3-47B4-00E6AAFBDD8C}|WebSocketRESTAPI\\WebSocketRESTAPI.csproj|solutionrelative:websocketrestapi\\sheet1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D708AA-BB19-DEB3-47B4-00E6AAFBDD8C}|WebSocketRESTAPI\\WebSocketRESTAPI.csproj|C:\\Users\\antho\\source\\repos\\WebSocketRESTAPI\\websocketrestapi\\helpers\\restclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D708AA-BB19-DEB3-47B4-00E6AAFBDD8C}|WebSocketRESTAPI\\WebSocketRESTAPI.csproj|solutionrelative:websocketrestapi\\helpers\\restclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D708AA-BB19-DEB3-47B4-00E6AAFBDD8C}|WebSocketRESTAPI\\WebSocketRESTAPI.csproj|C:\\Users\\antho\\source\\repos\\WebSocketRESTAPI\\websocketrestapi\\helpers\\websocketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D708AA-BB19-DEB3-47B4-00E6AAFBDD8C}|WebSocketRESTAPI\\WebSocketRESTAPI.csproj|solutionrelative:websocketrestapi\\helpers\\websocketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D708AA-BB19-DEB3-47B4-00E6AAFBDD8C}|WebSocketRESTAPI\\WebSocketRESTAPI.csproj|C:\\Users\\antho\\source\\repos\\WebSocketRESTAPI\\websocketrestapi\\ui\\dropdownmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D708AA-BB19-DEB3-47B4-00E6AAFBDD8C}|WebSocketRESTAPI\\WebSocketRESTAPI.csproj|solutionrelative:websocketrestapi\\ui\\dropdownmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D708AA-BB19-DEB3-47B4-00E6AAFBDD8C}|WebSocketRESTAPI\\WebSocketRESTAPI.csproj|C:\\Users\\antho\\source\\repos\\WebSocketRESTAPI\\websocketrestapi\\ui\\flashmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D708AA-BB19-DEB3-47B4-00E6AAFBDD8C}|WebSocketRESTAPI\\WebSocketRESTAPI.csproj|solutionrelative:websocketrestapi\\ui\\flashmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,14 +38,65 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlashManager.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\WebSocketRESTAPI\\WebSocketRESTAPI\\UI\\FlashManager.cs",
+              "RelativeDocumentMoniker": "WebSocketRESTAPI\\UI\\FlashManager.cs",
+              "ToolTip": "C:\\Users\\antho\\source\\repos\\WebSocketRESTAPI\\WebSocketRESTAPI\\UI\\FlashManager.cs",
+              "RelativeToolTip": "WebSocketRESTAPI\\UI\\FlashManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T12:51:41.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DropdownManager.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\WebSocketRESTAPI\\WebSocketRESTAPI\\UI\\DropdownManager.cs",
+              "RelativeDocumentMoniker": "WebSocketRESTAPI\\UI\\DropdownManager.cs",
+              "ToolTip": "C:\\Users\\antho\\source\\repos\\WebSocketRESTAPI\\WebSocketRESTAPI\\UI\\DropdownManager.cs",
+              "RelativeToolTip": "WebSocketRESTAPI\\UI\\DropdownManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T10:29:27.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestClient.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\WebSocketRESTAPI\\WebSocketRESTAPI\\Helpers\\RestClient.cs",
+              "RelativeDocumentMoniker": "WebSocketRESTAPI\\Helpers\\RestClient.cs",
+              "ToolTip": "C:\\Users\\antho\\source\\repos\\WebSocketRESTAPI\\WebSocketRESTAPI\\Helpers\\RestClient.cs",
+              "RelativeToolTip": "WebSocketRESTAPI\\Helpers\\RestClient.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAmwD8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T09:55:21.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebSocketClient.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\WebSocketRESTAPI\\WebSocketRESTAPI\\Helpers\\WebSocketClient.cs",
+              "RelativeDocumentMoniker": "WebSocketRESTAPI\\Helpers\\WebSocketClient.cs",
+              "ToolTip": "C:\\Users\\antho\\source\\repos\\WebSocketRESTAPI\\WebSocketRESTAPI\\Helpers\\WebSocketClient.cs",
+              "RelativeToolTip": "WebSocketRESTAPI\\Helpers\\WebSocketClient.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T10:50:13.484Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WebSocketRESTAPI.xlsx",
-              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\WebSocketRESTAPI\\WebSocketRESTAPI\\WebSocketRESTAPI.xlsx",
-              "RelativeDocumentMoniker": "WebSocketRESTAPI\\WebSocketRESTAPI.xlsx",
-              "ToolTip": "C:\\Users\\antho\\source\\repos\\WebSocketRESTAPI\\WebSocketRESTAPI\\WebSocketRESTAPI.xlsx",
-              "RelativeToolTip": "WebSocketRESTAPI\\WebSocketRESTAPI.xlsx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-07-09T08:59:40.561Z"
+              "Title": "Sheet1.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\WebSocketRESTAPI\\WebSocketRESTAPI\\Sheet1.cs",
+              "RelativeDocumentMoniker": "WebSocketRESTAPI\\Sheet1.cs",
+              "ToolTip": "C:\\Users\\antho\\source\\repos\\WebSocketRESTAPI\\WebSocketRESTAPI\\Sheet1.cs",
+              "RelativeToolTip": "WebSocketRESTAPI\\Sheet1.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAIwHIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T09:40:03.589Z",
+              "EditorCaption": ""
             }
           ]
         }
