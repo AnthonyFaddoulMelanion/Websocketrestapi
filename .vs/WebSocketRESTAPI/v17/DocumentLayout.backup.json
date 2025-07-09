@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\antho\\source\\repos\\WebSocketRESTAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D708AA-BB19-DEB3-47B4-00E6AAFBDD8C}|WebSocketRESTAPI\\WebSocketRESTAPI.csproj|c:\\users\\antho\\source\\repos\\websocketrestapi\\websocketrestapi\\websocketrestapi.xlsx||{B04EAF7D-7811-4A65-A4C0-1C9D2354E965}",
+      "RelativeMoniker": "D:0:0:{F9D708AA-BB19-DEB3-47B4-00E6AAFBDD8C}|WebSocketRESTAPI\\WebSocketRESTAPI.csproj|solutionrelative:websocketrestapi\\websocketrestapi.xlsx||{B04EAF7D-7811-4A65-A4C0-1C9D2354E965}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebSocketRESTAPI.xlsx",
+              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\WebSocketRESTAPI\\WebSocketRESTAPI\\WebSocketRESTAPI.xlsx",
+              "RelativeDocumentMoniker": "WebSocketRESTAPI\\WebSocketRESTAPI.xlsx",
+              "ToolTip": "C:\\Users\\antho\\source\\repos\\WebSocketRESTAPI\\WebSocketRESTAPI\\WebSocketRESTAPI.xlsx",
+              "RelativeToolTip": "WebSocketRESTAPI\\WebSocketRESTAPI.xlsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-07-09T08:59:40.561Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
